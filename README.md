@@ -55,5 +55,5 @@ Final Result
 
 This experiment proves:
 
-C → Compile separately for each OS
-Java → Write Once, Run Anywhere
+*C → Compile separately for each OS
+*Java → Write Once, Run Anywhere
