@@ -10,14 +10,14 @@ To understand the difference between platform-dependent and platform-independent
 
 ```
 gcc hello.c -o hello.exe
-hello.exe
+a.exe
 ```
 
 ### Linux
 
 ```
 gcc hello.c -o hello
-./hello
+./a.out
 ```
 
 ### 🔍 Observation
